@@ -1,0 +1,102 @@
+#cara{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(241, 207, 144);
+    border-radius: 250px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}
+
+#sombrero{
+    width: 500px;
+    height: 30px;
+    background-color: green;
+    border-radius: 20px; /*SOMBRERO DOBLE */
+    position: relative;
+}
+#punta-de-sombrero{
+    height: 150px;
+    width: 300px;
+    background-color: green;
+    position: relative;
+    bottom: 90px;
+    margin: auto;
+}
+#ojo1{
+    width: 100px;
+    height: 125px;
+    border-radius: 50px;
+    background-color: white;
+    display: inline-block;
+
+    position: relative;
+    left: 100px;
+    top: 70px;
+}
+#pupila1{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 20px;
+    position: relative;
+    left: 25px;
+    top: 40px;
+}
+#ojo2{
+    width: 100px;
+    height: 125px;
+    border-radius: 50px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    left: 195px;
+    top: 70px;
+}
+#pupila2{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 20px;
+    position: relative;
+    left: 25px;
+    top: 40px;
+}
+#boquita-arriba{
+    width: 360px;
+    height: 190px;
+    margin: auto;
+    background-color: orange;
+    border-radius: 89px;
+    position: relative;
+    top: 60px;
+}
+
+#boquita-medio{
+    width: 210px;
+    height: 120px;
+    margin: auto;
+    background-color: rgb(71, 45, 45);
+    border-radius: 100px;
+    position: relative;
+    bottom: 95px;
+}
+
+#labios{
+    width: 100px;
+    height: 5px;
+    margin: auto;
+    background-color: red;
+    position: relative;
+    bottom: 160px;
+}
+
+#nariz{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+    border-radius: 100px;
+    position: relative;
+    bottom: 330px;
+}
